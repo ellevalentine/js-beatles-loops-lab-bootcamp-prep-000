@@ -46,4 +46,5 @@ function theBeatlesPlay(musicians,instruments) {
 // firstly asked to create a function called iLoveTheBeatles that takes the arguement(parameter) "number".
 //next to have a variable with contains an empty array which we call "arr".
 //within the function iLoveTheBeatles we will implement a "do-while loop". 
-//"do-while loops" follow the formate of:
+//"do-while loops" follow the formate of:"do { [loopBody]; } while ([condition])" 
+//in the "do" part we want the function to print the string 
