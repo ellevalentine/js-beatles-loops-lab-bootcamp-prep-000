@@ -48,4 +48,5 @@ function theBeatlesPlay(musicians,instruments) {
 //within the function iLoveTheBeatles we will implement a "do-while loop". 
 //"do-while loops" follow the formate of:"do { [loopBody]; } while ([condition])" 
 //in the "do" part we want the function to print the string "I love the Beatles!" we do this by using the .push function.
-// the "while" condition gives that i must be less thank or equal to 
+// the "while" condition gives that i must be less thank or equal to number and number which both must be less than 15.
+// and to return the string in the arr
